@@ -1,6 +1,6 @@
 Molecule,State,Literature Enthalpy of Formation (kJ/mol),Source,Literature Enthalpy of Combustion (kJ/mol),Source
 Benzoic Acid,Solid,-384.8,NIST,-3228,NIST
-Naphthanlene,Solid,77,NIST,-5160,NIST
+Naphthalene,Solid,77,NIST,-5160,NIST
 Azulene,Solid,212,NIST,-5290.7,NIST
 Lauric Acid,Solid,,,-7423.7,NIST
 Stearic Acid,Solid,-912,NIST,-11293.75,NIST
